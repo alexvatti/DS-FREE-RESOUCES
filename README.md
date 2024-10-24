@@ -18,4 +18,5 @@
   
 - SQL [Playlist] With Any One [MySQL , SQL Server , Postgre SQL , Oracle]
 - https://www.youtube.com/playlist?list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn
+- https://www.youtube.com/playlist?list=PL23dd-8zssJC0n4--rrdmbD4mROCcg5Uw
   
